@@ -1,0 +1,16 @@
+opendataloader-pdf[hybrid]
+ollama
+streamlit
+plotly
+fastapi
+uvicorn
+paddlepaddle 
+paddleocr==2.7.3
+pdf2image
+easyocr
+json-repair
+opencv-python 
+pillow
+faiss-cpu
+sentence_transformers
+rank_bm25

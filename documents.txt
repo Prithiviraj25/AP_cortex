@@ -1,0 +1,10 @@
+# command to start the ocr server
+opendataloader-pdf-hybrid --port 5002 --force-ocr
+
+
+#start uvicorn server like this to prevent cors error 
+uvicorn test:app --host 0.0.0.0 
+
+
+# for paddle ocr pdf2image do this on mac
+brew install poppler
