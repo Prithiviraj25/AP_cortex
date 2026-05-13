@@ -107,7 +107,7 @@ source .venv/bin/activate
 uv pip install -r requirements.txt
 
 # now start the uvicorn server in terminal 2
-uvicorn app:test --host 0.0.0.0
+uvicorn app:app --host 0.0.0.0
 
 # now start the opendataloader pdf api server
 opendataloader-pdf-hybrid --port 5002 --force-ocr
