@@ -113,6 +113,7 @@ uvicorn app:app --host 0.0.0.0
 opendataloader-pdf-hybrid --port 5002 --force-ocr
 
 # note that you might face cors issue and the frontend terminal will show what to added in the frontend/next.config.ts
+# also make sure that ollama is downloaded in you machine with the model qwen2.5:7b
 
 # now you can start using the frontend 
 ```

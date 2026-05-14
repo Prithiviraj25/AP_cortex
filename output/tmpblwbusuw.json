@@ -1,0 +1,384 @@
+{
+  "file name" : "tmpblwbusuw.pdf",
+  "number of pages" : 1,
+  "author" : null,
+  "title" : null,
+  "creation date" : null,
+  "modification date" : "D:20260512133245Z",
+  "kids" : [ {
+    "type" : "image",
+    "page number" : 1,
+    "bounding box" : [ 104.769, 15.0, 737.232, 580.0 ],
+    "source" : "tmpblwbusuw_images/imageFile1.png"
+  }, {
+    "type" : "heading",
+    "id" : 49,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 175.0, 452.0, 229.0, 465.333 ],
+    "heading level" : 1,
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Invoice"
+  }, {
+    "type" : "paragraph",
+    "id" : 50,
+    "page number" : 1,
+    "bounding box" : [ 591.333, 425.667, 674.333, 459.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "BigCo"
+  }, {
+    "type" : "paragraph",
+    "id" : 51,
+    "page number" : 1,
+    "bounding box" : [ 614.0, 412.333, 651.333, 431.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Inc."
+  }, {
+    "type" : "paragraph",
+    "id" : 54,
+    "page number" : 1,
+    "bounding box" : [ 514.667, 358.667, 574.667, 366.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "INVOICE NUHBER"
+  }, {
+    "type" : "paragraph",
+    "id" : 52,
+    "page number" : 1,
+    "bounding box" : [ 175.0, 359.333, 185.667, 366.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "To"
+  }, {
+    "type" : "paragraph",
+    "id" : 53,
+    "page number" : 1,
+    "bounding box" : [ 345.0, 359.333, 366.333, 366.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "FROH"
+  }, {
+    "type" : "paragraph",
+    "id" : 55,
+    "page number" : 1,
+    "bounding box" : [ 175.0, 342.333, 235.667, 357.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Test Corp"
+  }, {
+    "type" : "paragraph",
+    "id" : 57,
+    "page number" : 1,
+    "bounding box" : [ 515.333, 347.0, 550.667, 357.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "7578765"
+  }, {
+    "type" : "paragraph",
+    "id" : 56,
+    "page number" : 1,
+    "bounding box" : [ 345.0, 342.667, 403.667, 356.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "BigCo Inc"
+  }, {
+    "type" : "paragraph",
+    "id" : 58,
+    "page number" : 1,
+    "bounding box" : [ 174.667, 331.667, 248.0, 341.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "123 1234 George 5T"
+  }, {
+    "type" : "paragraph",
+    "id" : 61,
+    "page number" : 1,
+    "bounding box" : [ 514.667, 327.0, 556.0, 335.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "ISSOE DATE"
+  }, {
+    "type" : "paragraph",
+    "id" : 62,
+    "page number" : 1,
+    "bounding box" : [ 600.0, 327.0, 638.0, 335.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "CURRENCY"
+  }, {
+    "type" : "paragraph",
+    "id" : 59,
+    "page number" : 1,
+    "bounding box" : [ 174.667, 322.333, 229.333, 331.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Test Wi 53223"
+  }, {
+    "type" : "paragraph",
+    "id" : 60,
+    "page number" : 1,
+    "bounding box" : [ 344.667, 322.333, 433.333, 331.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "San Francisco CA 94107"
+  }, {
+    "type" : "paragraph",
+    "id" : 65,
+    "page number" : 1,
+    "bounding box" : [ 515.333, 316.333, 545.333, 325.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "11/1/17"
+  }, {
+    "type" : "paragraph",
+    "id" : 66,
+    "page number" : 1,
+    "bounding box" : [ 600.667, 315.667, 618.667, 325.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "USD"
+  }, {
+    "type" : "paragraph",
+    "id" : 63,
+    "page number" : 1,
+    "bounding box" : [ 174.667, 311.667, 223.333, 320.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "United States"
+  }, {
+    "type" : "paragraph",
+    "id" : 64,
+    "page number" : 1,
+    "bounding box" : [ 344.667, 311.667, 394.0, 320.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "United States"
+  }, {
+    "type" : "paragraph",
+    "id" : 68,
+    "page number" : 1,
+    "bounding box" : [ 421.333, 267.0, 457.333, 275.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "QDANTITY"
+  }, {
+    "type" : "paragraph",
+    "id" : 67,
+    "page number" : 1,
+    "bounding box" : [ 175.0, 268.0, 227.0, 274.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "LINE ID ITEM ID"
+  }, {
+    "type" : "paragraph",
+    "id" : 69,
+    "page number" : 1,
+    "bounding box" : [ 461.667, 268.0, 478.333, 274.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "UNIT"
+  }, {
+    "type" : "paragraph",
+    "id" : 70,
+    "page number" : 1,
+    "bounding box" : [ 495.0, 268.0, 533.667, 274.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "UNIT PRICE"
+  }, {
+    "type" : "paragraph",
+    "id" : 71,
+    "page number" : 1,
+    "bounding box" : [ 570.333, 268.0, 585.0, 274.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "TAX"
+  }, {
+    "type" : "paragraph",
+    "id" : 73,
+    "page number" : 1,
+    "bounding box" : [ 250.333, 250.333, 277.333, 260.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Item A"
+  }, {
+    "type" : "paragraph",
+    "id" : 77,
+    "page number" : 1,
+    "bounding box" : [ 659.0, 246.667, 688.333, 260.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "200.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 72,
+    "page number" : 1,
+    "bounding box" : [ 200.0, 250.333, 226.667, 259.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Item A"
+  }, {
+    "type" : "paragraph",
+    "id" : 74,
+    "page number" : 1,
+    "bounding box" : [ 446.0, 249.667, 476.0, 259.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "20 pcs"
+  }, {
+    "type" : "paragraph",
+    "id" : 75,
+    "page number" : 1,
+    "bounding box" : [ 510.667, 250.333, 534.0, 259.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "10.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 76,
+    "page number" : 1,
+    "bounding box" : [ 564.0, 250.333, 585.333, 259.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "7,6%"
+  }, {
+    "type" : "paragraph",
+    "id" : 78,
+    "page number" : 1,
+    "bounding box" : [ 200.0, 234.333, 226.667, 243.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Itern B"
+  }, {
+    "type" : "paragraph",
+    "id" : 79,
+    "page number" : 1,
+    "bounding box" : [ 250.667, 234.333, 278.0, 243.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Iter B"
+  }, {
+    "type" : "paragraph",
+    "id" : 80,
+    "page number" : 1,
+    "bounding box" : [ 510.667, 233.667, 534.0, 243.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "30.0u"
+  }, {
+    "type" : "paragraph",
+    "id" : 81,
+    "page number" : 1,
+    "bounding box" : [ 658.667, 215.0, 686.667, 223.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "500.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 82,
+    "page number" : 1,
+    "bounding box" : [ 658.667, 215.0, 686.667, 223.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "500.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 83,
+    "page number" : 1,
+    "bounding box" : [ 663.333, 203.667, 686.667, 212.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "30.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 84,
+    "page number" : 1,
+    "bounding box" : [ 663.333, 203.667, 686.667, 212.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "30.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 87,
+    "page number" : 1,
+    "bounding box" : [ 648.667, 186.0, 687.333, 196.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "538.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 88,
+    "page number" : 1,
+    "bounding box" : [ 648.667, 186.0, 687.333, 196.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "538.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 85,
+    "page number" : 1,
+    "bounding box" : [ 481.333, 185.667, 537.333, 196.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Total USD"
+  }, {
+    "type" : "paragraph",
+    "id" : 86,
+    "page number" : 1,
+    "bounding box" : [ 481.333, 185.667, 537.333, 196.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Total USD"
+  }, {
+    "type" : "paragraph",
+    "id" : 89,
+    "page number" : 1,
+    "bounding box" : [ 480.667, 176.333, 562.0, 185.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Total taxes USD 38.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 90,
+    "page number" : 1,
+    "bounding box" : [ 480.667, 176.333, 562.0, 185.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Total taxes USD 38.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 91,
+    "page number" : 1,
+    "bounding box" : [ 175.0, 159.667, 254.0, 168.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "DELIVERY ADDRESS"
+  }, {
+    "type" : "paragraph",
+    "id" : 92,
+    "page number" : 1,
+    "bounding box" : [ 406.0, 159.667, 430.0, 167.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "NOTES"
+  }, {
+    "type" : "paragraph",
+    "id" : 93,
+    "page number" : 1,
+    "bounding box" : [ 174.667, 138.333, 227.333, 148.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "United States"
+  }, {
+    "type" : "paragraph",
+    "id" : 94,
+    "page number" : 1,
+    "bounding box" : [ 406.0, 136.667, 678.667, 147.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Please note these items will De delivered according to cur 3-days policy."
+  } ]
+}

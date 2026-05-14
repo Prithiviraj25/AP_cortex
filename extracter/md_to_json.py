@@ -59,7 +59,7 @@ def validate_extraction(data):
     return warnings
 
 
-def structure_invoice_data(markdown_text, model="llama3:latest"):
+def structure_invoice_data(markdown_text, model="qwen2.5:7b"):
     """
     Convert invoice markdown text into structured JSON using local Ollama
 
@@ -131,7 +131,8 @@ Return ONLY JSON:
                     "role": "user",
                     "content": prompt
                 }
-            ]
+            ],
+            options={ "temperature": 0.35}
         )
 
         response_text = response["message"]["content"]
@@ -168,7 +169,7 @@ import re
 from json_repair import repair_json
 
 
-def structure_scanned_invoice_data(ocr_text, model="llama3:latest"):
+def structure_scanned_invoice_data(ocr_text, model="qwen2.5:7b"):
     """
     Convert EasyOCR extracted invoice text into structured JSON.
 
@@ -299,7 +300,8 @@ Return ONLY VALID JSON:
                     "role": "user",
                     "content": prompt
                 }
-            ]
+            ],
+            options={ "temperature": 0.35}
         )
 
         response_text = response["message"]["content"].strip()

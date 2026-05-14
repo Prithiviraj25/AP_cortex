@@ -1,0 +1,551 @@
+{
+  "file name" : "tmpjjt9uwfv.pdf",
+  "number of pages" : 1,
+  "author" : null,
+  "title" : null,
+  "creation date" : null,
+  "modification date" : "D:20260512124113Z",
+  "kids" : [ {
+    "type" : "image",
+    "page number" : 1,
+    "bounding box" : [ 209.125, 15.0, 632.875, 580.0 ],
+    "source" : "tmpjjt9uwfv_images/imageFile1.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 70,
+    "page number" : 1,
+    "bounding box" : [ 285.821, 510.512, 382.512, 511.488 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "CORPORATION"
+  }, {
+    "type" : "paragraph",
+    "id" : 71,
+    "page number" : 1,
+    "bounding box" : [ 248.89, 494.858, 287.443, 504.142 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "ACME"
+  }, {
+    "type" : "paragraph",
+    "id" : 73,
+    "page number" : 1,
+    "bounding box" : [ 342.529, 495.862, 361.805, 500.138 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "94102"
+  }, {
+    "type" : "paragraph",
+    "id" : 72,
+    "page number" : 1,
+    "bounding box" : [ 335.667, 492.0, 344.333, 498.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "CA"
+  }, {
+    "type" : "paragraph",
+    "id" : 79,
+    "page number" : 1,
+    "bounding box" : [ 369.552, 490.84, 382.782, 495.493 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "'com"
+  }, {
+    "type" : "paragraph",
+    "id" : 76,
+    "page number" : 1,
+    "bounding box" : [ 310.07, 491.035, 335.596, 493.298 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Francisco,"
+  }, {
+    "type" : "paragraph",
+    "id" : 75,
+    "page number" : 1,
+    "bounding box" : [ 301.0, 486.0, 311.0, 492.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "San"
+  }, {
+    "type" : "paragraph",
+    "id" : 78,
+    "page number" : 1,
+    "bounding box" : [ 340.048, 488.752, 371.619, 490.581 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "@acmecorp."
+  }, {
+    "type" : "paragraph",
+    "id" : 84,
+    "page number" : 1,
+    "bounding box" : [ 324.927, 484.138, 342.74, 489.528 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "billing("
+  }, {
+    "type" : "paragraph",
+    "id" : 74,
+    "page number" : 1,
+    "bounding box" : [ 282.885, 484.84, 300.115, 489.493 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Street;"
+  }, {
+    "type" : "paragraph",
+    "id" : 77,
+    "page number" : 1,
+    "bounding box" : [ 309.529, 481.862, 326.805, 486.138 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Email:"
+  }, {
+    "type" : "paragraph",
+    "id" : 81,
+    "page number" : 1,
+    "bounding box" : [ 261.454, 482.284, 284.213, 485.382 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Business"
+  }, {
+    "type" : "paragraph",
+    "id" : 83,
+    "page number" : 1,
+    "bounding box" : [ 292.964, 478.445, 307.37, 484.555 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "0123"
+  }, {
+    "type" : "paragraph",
+    "id" : 80,
+    "page number" : 1,
+    "bounding box" : [ 251.594, 478.805, 262.74, 484.195 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "123"
+  }, {
+    "type" : "paragraph",
+    "id" : 85,
+    "page number" : 1,
+    "bounding box" : [ 282.667, 475.0, 294.0, 483.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "555"
+  }, {
+    "type" : "paragraph",
+    "id" : 82,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 268.218, 475.173, 284.448, 479.827 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "(415)"
+  }, {
+    "type" : "paragraph",
+    "id" : 87,
+    "page number" : 1,
+    "bounding box" : [ 513.94, 468.971, 595.06, 477.696 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "INVOICE"
+  }, {
+    "type" : "paragraph",
+    "id" : 86,
+    "page number" : 1,
+    "bounding box" : [ 252.171, 472.221, 270.162, 476.113 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Phone:"
+  }, {
+    "type" : "paragraph",
+    "id" : 89,
+    "page number" : 1,
+    "bounding box" : [ 270.048, 469.752, 300.619, 471.581 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "94-1234567"
+  }, {
+    "type" : "paragraph",
+    "id" : 88,
+    "page number" : 1,
+    "bounding box" : [ 253.667, 463.333, 271.0, 470.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Tax ID:"
+  }, {
+    "type" : "paragraph",
+    "id" : 90,
+    "page number" : 1,
+    "bounding box" : [ 557.96, 430.293, 595.374, 435.04 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "INV-8473"
+  }, {
+    "type" : "paragraph",
+    "id" : 92,
+    "page number" : 1,
+    "bounding box" : [ 474.923, 420.331, 512.077, 424.669 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Number:"
+  }, {
+    "type" : "paragraph",
+    "id" : 94,
+    "page number" : 1,
+    "bounding box" : [ 574.445, 415.168, 596.555, 421.832 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "2026"
+  }, {
+    "type" : "paragraph",
+    "id" : 91,
+    "page number" : 1,
+    "bounding box" : [ 443.994, 415.26, 475.339, 420.407 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Invoice"
+  }, {
+    "type" : "paragraph",
+    "id" : 93,
+    "page number" : 1,
+    "bounding box" : [ 562.0, 411.667, 575.333, 420.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "15,"
+  }, {
+    "type" : "paragraph",
+    "id" : 96,
+    "page number" : 1,
+    "bounding box" : [ 273.667, 405.333, 285.667, 412.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "TO:"
+  }, {
+    "type" : "paragraph",
+    "id" : 98,
+    "page number" : 1,
+    "bounding box" : [ 489.057, 405.207, 513.61, 411.126 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Date:"
+  }, {
+    "type" : "paragraph",
+    "id" : 95,
+    "page number" : 1,
+    "bounding box" : [ 258.946, 403.791, 273.387, 409.542 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "BILL"
+  }, {
+    "type" : "paragraph",
+    "id" : 97,
+    "page number" : 1,
+    "bounding box" : [ 457.661, 401.927, 489.673, 407.073 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Invoice"
+  }, {
+    "type" : "paragraph",
+    "id" : 100,
+    "page number" : 1,
+    "bounding box" : [ 563.724, 398.874, 597.276, 404.793 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "PO-2847"
+  }, {
+    "type" : "paragraph",
+    "id" : 99,
+    "page number" : 1,
+    "bounding box" : [ 259.667, 388.333, 305.667, 402.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "MidÇorp Inc."
+  }, {
+    "type" : "paragraph",
+    "id" : 104,
+    "page number" : 1,
+    "bounding box" : [ 468.514, 389.427, 515.153, 392.907 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Reference:"
+  }, {
+    "type" : "paragraph",
+    "id" : 103,
+    "page number" : 1,
+    "bounding box" : [ 455.868, 383.782, 469.466, 391.885 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Po"
+  }, {
+    "type" : "paragraph",
+    "id" : 102,
+    "page number" : 1,
+    "bounding box" : [ 290.907, 385.488, 316.76, 390.512 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Avenue"
+  }, {
+    "type" : "paragraph",
+    "id" : 109,
+    "page number" : 1,
+    "bounding box" : [ 577.779, 383.835, 599.555, 390.499 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "2026"
+  }, {
+    "type" : "paragraph",
+    "id" : 108,
+    "page number" : 1,
+    "bounding box" : [ 564.667, 380.333, 578.667, 389.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "14,"
+  }, {
+    "type" : "paragraph",
+    "id" : 101,
+    "page number" : 1,
+    "bounding box" : [ 273.445, 381.835, 291.555, 388.499 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Tech"
+  }, {
+    "type" : "paragraph",
+    "id" : 105,
+    "page number" : 1,
+    "bounding box" : [ 261.333, 379.0, 274.667, 387.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "456"
+  }, {
+    "type" : "paragraph",
+    "id" : 107,
+    "page number" : 1,
+    "bounding box" : [ 545.803, 379.485, 565.197, 386.515 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "April"
+  }, {
+    "type" : "paragraph",
+    "id" : 106,
+    "page number" : 1,
+    "bounding box" : [ 284.333, 371.333, 316.667, 384.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "TX 78701"
+  }, {
+    "type" : "paragraph",
+    "id" : 110,
+    "page number" : 1,
+    "bounding box" : [ 474.333, 370.0, 516.667, 382.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Due Date:"
+  }, {
+    "type" : "paragraph",
+    "id" : 111,
+    "page number" : 1,
+    "bounding box" : [ 261.693, 370.898, 285.64, 376.435 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Austin,"
+  }, {
+    "type" : "paragraph",
+    "id" : 113,
+    "page number" : 1,
+    "bounding box" : [ 284.0, 361.667, 306.333, 371.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "States"
+  }, {
+    "type" : "paragraph",
+    "id" : 112,
+    "page number" : 1,
+    "bounding box" : [ 262.927, 361.138, 284.74, 366.528 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "United"
+  }, {
+    "type" : "paragraph",
+    "id" : 114,
+    "page number" : 1,
+    "bounding box" : [ 565.667, 334.333, 602.0, 347.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Amount"
+  }, {
+    "type" : "paragraph",
+    "id" : 115,
+    "page number" : 1,
+    "bounding box" : [ 504.333, 328.333, 547.333, 341.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Unit Price"
+  }, {
+    "type" : "paragraph",
+    "id" : 116,
+    "page number" : 1,
+    "bounding box" : [ 447.667, 321.667, 485.333, 335.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Quantity"
+  }, {
+    "type" : "paragraph",
+    "id" : 118,
+    "page number" : 1,
+    "bounding box" : [ 588.667, 315.667, 602.0, 324.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "100"
+  }, {
+    "type" : "paragraph",
+    "id" : 117,
+    "page number" : 1,
+    "bounding box" : [ 569.112, 315.168, 591.221, 321.832 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "5100"
+  }, {
+    "type" : "paragraph",
+    "id" : 119,
+    "page number" : 1,
+    "bounding box" : [ 271.96, 308.293, 315.04, 313.04 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Description"
+  }, {
+    "type" : "paragraph",
+    "id" : 120,
+    "page number" : 1,
+    "bounding box" : [ 458.667, 303.0, 486.0, 313.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "500 GB"
+  }, {
+    "type" : "paragraph",
+    "id" : 122,
+    "page number" : 1,
+    "bounding box" : [ 353.0, 293.0, 399.333, 303.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Premium Tier"
+  }, {
+    "type" : "paragraph",
+    "id" : 121,
+    "page number" : 1,
+    "bounding box" : [ 274.667, 285.333, 350.0, 299.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Cloud Storage Services"
+  }, {
+    "type" : "paragraph",
+    "id" : 123,
+    "page number" : 1,
+    "bounding box" : [ 573.667, 279.0, 607.333, 291.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "5100.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 124,
+    "page number" : 1,
+    "bounding box" : [ 506.0, 274.333, 541.0, 284.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Subtotal:"
+  }, {
+    "type" : "paragraph",
+    "id" : 126,
+    "page number" : 1,
+    "bounding box" : [ 580.0, 262.333, 608.0, 272.333 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "518.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 125,
+    "page number" : 1,
+    "bounding box" : [ 501.0, 256.0, 542.667, 268.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Tax (18%):"
+  }, {
+    "type" : "paragraph",
+    "id" : 127,
+    "page number" : 1,
+    "bounding box" : [ 569.667, 241.667, 610.0, 255.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "5118.00"
+  }, {
+    "type" : "paragraph",
+    "id" : 128,
+    "page number" : 1,
+    "bounding box" : [ 509.0, 237.667, 544.667, 249.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "TOTAL:"
+  }, {
+    "type" : "paragraph",
+    "id" : 131,
+    "page number" : 1,
+    "bounding box" : [ 440.0, 182.333, 496.667, 192.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Routing #121000248"
+  }, {
+    "type" : "paragraph",
+    "id" : 129,
+    "page number" : 1,
+    "bounding box" : [ 282.333, 181.0, 356.0, 192.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Payment Terms: Net 30 Days"
+  }, {
+    "type" : "paragraph",
+    "id" : 130,
+    "page number" : 1,
+    "bounding box" : [ 401.0, 180.333, 438.667, 189.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "#9876543210"
+  }, {
+    "type" : "paragraph",
+    "id" : 132,
+    "page number" : 1,
+    "bounding box" : [ 282.667, 173.333, 402.333, 186.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Peyment instructions: Wire transfer to Account"
+  }, {
+    "type" : "paragraph",
+    "id" : 134,
+    "page number" : 1,
+    "bounding box" : [ 425.0, 173.333, 504.0, 183.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "number in payment reference"
+  }, {
+    "type" : "paragraph",
+    "id" : 133,
+    "page number" : 1,
+    "bounding box" : [ 346.667, 169.667, 426.0, 179.667 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "business. Please include invoice"
+  }, {
+    "type" : "paragraph",
+    "id" : 136,
+    "page number" : 1,
+    "bounding box" : [ 334.195, 169.862, 347.471, 174.138 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "your"
+  }, {
+    "type" : "paragraph",
+    "id" : 135,
+    "page number" : 1,
+    "bounding box" : [ 284.333, 167.333, 335.0, 174.0 ],
+    "font" : null,
+    "font size" : 12.0,
+    "content" : "Notes: Thank you for"
+  } ]
+}

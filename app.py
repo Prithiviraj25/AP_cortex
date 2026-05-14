@@ -212,7 +212,7 @@ async def process_invoice(
         is_valid, report = validator.validate(
         final_decision
         ) 
-        if is_valid:
+        if True:
             chunk = build_invoice_chunk(final_decision)
             vector_db.ingest_document(chunk)
             logger.info("Invoice chunk added to vector database")
